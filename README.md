@@ -1,6 +1,6 @@
 # First PR Practice
 
-This is a smal repo for practicing my first pull request on GitHub.
+This is a small repo for practicing my first pull request on GitHub.
 
 ## Goal
 
